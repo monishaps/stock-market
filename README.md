@@ -4,7 +4,8 @@ This project has both backend and frontend.
 
 It is a very basic project where it has login, signup and components like holdings, portfolio, profile, reports, transactions and stocks where data is coming from the backend. Database has also been created. It also has unit testing for individual components and coverage report.
 
-# Technology used: HTML CSS JavaScript C# (C sharp) React.js SQL
+# Technologies used: 
+HTML, CSS, JavaScript, C# (C sharp), React.js, SQL
 
 # How to start?
 
