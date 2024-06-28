@@ -1,3 +1,17 @@
+# Stock Market Project
+
+This project has both backend and frontend.
+
+It is a very basic project where it has login, signup and components like holdings, portfolio, profile, reports, transactions and stocks where data is coming from the backend. Database has also been created. It also has unit testing for individual components and coverage report.
+
+# Technology used: HTML CSS JavaScript C# (C sharp) React.js SQL
+
+# How to start?
+
+1)Clone the repo
+2)Open frontend->stock->download node_modules
+3)Start the backend (Stock.sln)
+4)Then the browser will start
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
