@@ -10,8 +10,11 @@ HTML, CSS, JavaScript, C# (C sharp), React.js, SQL
 # How to start?
 
 1)Clone the repo
+
 2)Open frontend->stock->download node_modules
+
 3)Start the backend (Stock.sln)
+
 4)Then the browser will start
 # Getting Started with Create React App
 
