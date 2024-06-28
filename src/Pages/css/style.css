@@ -1,0 +1,100 @@
+.form_container {
+    width: 30%;
+}
+
+.custom-bg {
+    background-image: url('/src/assets/stock\ bg.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 1000px) {
+    .form_container {
+        width: 45%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .form_container {
+        width: 65%;
+    }
+}
+
+.top-bar {
+    background-color: rgb(65, 170, 241);
+    color: white; 
+    padding: 10px; 
+    text-align: center;
+    font-size: 70px; 
+  }
+
+  .logo{
+   align-items: center;
+  }
+
+  .red {
+    color: red;
+  }
+  
+  .green {
+    color: green;
+  }
+
+  .login-button-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .login-button {
+    background-color: rgb(65, 170, 241);
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .login-button:hover {
+    background-color: rgb(65, 170, 241);
+  }
+  .sidebar {
+    width: 18%;
+    height: 100vh;
+    background-color:  rgb(65, 170, 241);; 
+    padding: 20px;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    color: white; 
+    font-family: Arial, sans-serif; 
+  }
+  
+  .logo-container {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .logo {
+    width: 100px; 
+    height: auto;
+  }
+  
+  .sidebar-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .sidebar-item {
+    margin-bottom: 10px;
+  }
+  
+  .sidebar-link {
+    text-decoration: none;
+    color: white; 
+    font-size: 20px; 
+  }
+  
+  .sidebar-link:hover {
+    color: #007bff;
+  }
+  
